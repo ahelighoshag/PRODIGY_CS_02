@@ -1,5 +1,4 @@
 # PRODIGY_CS_02
-<hr>
 
 📁 PRODIGY_CS_02 – Image Encryption Tool
 📌 Project Title
