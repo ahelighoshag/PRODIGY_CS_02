@@ -1,6 +1,7 @@
 # PRODIGY_CS_02
 
 📁 PRODIGY_CS_02 – Image Encryption Tool
+<br/>
 📌 Project Title
 
 Image Encryption and Decryption Using Pixel Manipulation
