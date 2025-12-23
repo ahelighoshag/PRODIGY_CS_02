@@ -1,7 +1,6 @@
 # PRODIGY_CS_02
 
 📁 PRODIGY_CS_02 – Image Encryption Tool
-<br/>
 📌 Project Title
 
 Image Encryption and Decryption Using Pixel Manipulation
@@ -38,19 +37,13 @@ encrypted.png – Encrypted image output
 decrypted.png – Decrypted image output
 
 ▶️ How to Run
-
-Install the required library (if not already installed):
-
+Install the required library
 pip install pillow
 
-
-Run the encryption script:
-
+Run the encryption script
 python encrypt.py
 
-
-Run the decryption script:
-
+Run the decryption script
 python decrypt.py
 
 🎯 Learning Outcome
@@ -65,4 +58,5 @@ Learning the basics of data confidentiality in multimedia files
 
 Ensure the input image is present in the project directory
 
+Encryption and decryption must use the same transformation logic
 Encryption and decryption must use the same transformation logic
